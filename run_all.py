@@ -3,7 +3,7 @@ import sys
 
 scripts = [
     ('data_prep.py',           'Data Preparation'),
-    ('02_regression_analysis.py', 'Regression Analysis'),
+    ('regression_analysis.py', 'Regression Analysis'),
     ('graphs.py',     'Graph Generation'),
 ]
 
